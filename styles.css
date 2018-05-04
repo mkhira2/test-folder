@@ -1,0 +1,14 @@
+h1 {
+    color: blue;
+}
+
+ul {
+    font-weight: bold;
+    color: green;
+    font-style: italic;
+}
+
+ol {
+    font-weight: bolder;
+    color: red;
+}
